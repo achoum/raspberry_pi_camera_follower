@@ -5,13 +5,10 @@ In this project, a [AIY Vision kit](https://aiyprojects.withgoogle
 mounted on top of a [Pan Tilt Hat](https://learn.pimoroni
 .com/tutorial/sandyj/assembling-pan-tilt-hat). This repo contains the python script controller.
 
-![s1](media/s1.jpg)
+<img src="media/s1.jpg" height="350" />
+<img src="media/s2.jpg" height="350" />
 
-![s2](media/s2.jpg)
-
-
-[![video](http://img.youtube.com/vi/Nw9hHGZNXIg/0.jpg)](http://www.youtube
-.com/watch?v=Nw9hHGZNXIg)
+[![video](http://img.youtube.com/vi/Nw9hHGZNXIg/0.jpg)](http://www.youtube.com/watch?v=Nw9hHGZNXIg "Video")
 
 ## Usage
 
