@@ -1,12 +1,9 @@
 # Raspberry Pi Camera Follower
 
-In this project, a [AIY Vision kit](https://aiyprojects.withgoogle
-.com/vision) is
-mounted on top of a [Pan Tilt Hat](https://learn.pimoroni
-.com/tutorial/sandyj/assembling-pan-tilt-hat). This repo contains the python script controller.
+In this project, a [AIY Vision kit](https://aiyprojects.withgoogle.com/vision) is
+mounted on top of a [Pan Tilt Hat](https://learn.pimoroni.com/tutorial/sandyj/assembling-pan-tilt-hat), and a Raspberry Pi detects and follow faces. This repo contains the python script controller.
 
-<img src="media/s1.jpg" height="350" />
-<img src="media/s2.jpg" height="350" />
+<img src="media/s1.jpg" height="350" /> <img src="media/s2.jpg" height="350" />
 
 [![video](http://img.youtube.com/vi/Nw9hHGZNXIg/0.jpg)](http://www.youtube.com/watch?v=Nw9hHGZNXIg "Video")
 
